@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polash&label=Profile%20views&color=0e75b6&style=flat" alt="polash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polashds" alt="polashds" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polashmsh" alt="polashmsh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/polashtechai" target="blank"><img src="https://img.shields.io/twitter/follow/polashtechai?logo=twitter&style=for-the-badge" alt="polashtechai" /></a> </p>
 
 - 🌱 Digging Into  **Data Science & Artificial Intelligence**
  
-- ‍🏫 Data Science Educator at **[www.codonanalytics.com](https://www.youtube.com/@CodonAnalytics)**
+- ‍🏫 Data Science Educator at **[Codon Analytics](https://www.youtube.com/@CodonAnalytics)**
 
 - 💬 Ask me anything about Python, Data Science & AI
 
