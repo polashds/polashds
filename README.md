@@ -13,7 +13,7 @@
 
 - 💬 Ask me anything about Python, Data Science & AI
 
-- - 📫 How to reach me **polash@codonanalytics.com**
+- 📫 How to reach me **polash@codonanalytics.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
