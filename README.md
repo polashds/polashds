@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/polashtechai" target="blank"><img src="https://img.shields.io/twitter/follow/polashtechai?logo=twitter&style=for-the-badge" alt="polashtechai" /></a> </p>
 
-- 🌱 Digging Into Data Science & Artificial Intelligence **Python, Data Science & AI**
+- 🌱 Digging Into  **Data Science & Artificial Intelligence**
  
-- ‍🏫 Data Science Educator at **www.codonanalytics.com**
+- ‍🏫 Data Science Educator at **[www.codonanalytics.com](https://www.youtube.com/@CodonAnalytics)**
 
 - 💬 Ask me anything about Python, Data Science & AI
 
