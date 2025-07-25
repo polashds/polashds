@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Polash!</h1>
 <h3 align="center">A passionate Data Scientist, Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics and machine learning. Adaptable, detail-oriented, and committed to continuous learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polash&label=Profile%20views&color=0e75b6&style=flat" alt="polash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=polashds&label=Profile%20views&color=0e75b6&style=flat" alt="polashds" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polashmsh" alt="polashmsh" /></a> </p>
+// <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polashmsh" alt="polashmsh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/polashtechai" target="blank"><img src="https://img.shields.io/twitter/follow/polashtechai?logo=twitter&style=for-the-badge" alt="polashtechai" /></a> </p>
 
