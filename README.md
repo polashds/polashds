@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Polash!</h1>
+<h1 align="center">Hello 👋, I'm Siddique!</h1>
 <h3 align="center">A passionate Data Scientist, Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics and machine learning. Adaptable, detail-oriented, and committed to continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polashds&label=Profile%20views&color=0e75b6&style=flat" alt="polashds" /> </p>
